@@ -1,0 +1,61 @@
+body{
+    background-image: url(4th\ Assignment\ Web\ &\ App\ \(CSS\)\ Image\ 1\ \(Background\)\ Part\ \(B\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-left: 70px;
+    padding-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    text-transform: uppercase;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+.House{
+    margin-left: 400px;
+    border: none;
+}
+.button1{
+    background-color: transparent;
+    margin-left: 400px;
+    margin-right: 600px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border: 2px solid lightseagreen;
+    border-radius: 40px;
+    display: inline-block;
+}
+.button2{
+    background-color: transparent;
+    margin-left: 600px;
+    margin-right: 400px;
+    margin-top: -5%;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border: 2px solid lightseagreen;
+    border-radius: 40px;
+    display: flex
+    
+}
+p{
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 60px;
+    text-align: center;
+}
